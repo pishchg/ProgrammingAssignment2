@@ -1,9 +1,9 @@
-## The functions allow to quantify the inverse of a sqare 
+## These functions quantify the inverse of a sqare 
 ## linear matrix, then store the result in cache. The
 ## result can be called again without the need to 
 ## requantify it.
 
-## This function takes a matrix and creates a list, that will 
+## The following function takes a matrix and creates a list, that will 
 ## store its value and the value of its inverse (after 
 ## cacheSolve is called)
 ## It contains functions to get or set 
